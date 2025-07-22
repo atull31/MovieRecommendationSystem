@@ -1,0 +1,1 @@
+A Python-based movie recommendation system that leverages collaborative filtering (and optionally content-based filtering) to recommend movies to users. Uses the MovieLens dataset and standard data science libraries.
